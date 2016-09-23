@@ -1,4 +1,4 @@
-var app = {
+/*var app = {
     initialize: function() {
         this.bindEvents();
     },
@@ -11,4 +11,4 @@ var app = {
 	playVideo: function() {
 		YoutubeVideoPlayer.openVideo('npjF032TDDQ');
 	}
-};
+};*/
